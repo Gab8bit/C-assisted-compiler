@@ -1,5 +1,5 @@
 `C/C++ Assisted Compiler`<br>
-An assistant to compile files in C or C++ very quickly.
+An assistant to compile files in C or C++ very quickly
 ---------------------------------------------------------
 
 *NOTE: SAVE YOUR C FILE WITH `.c` EXTENSION AND C++ FILE WITH `.cpp` EXTENSION!!!*
