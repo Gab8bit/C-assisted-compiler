@@ -1,4 +1,4 @@
-`C/C++ Assisted Compiler` -->
+`C/C++ Assisted Compiler`<br>
 An assistant to compile files in C or C++ very quickly.
 ---------------------------------------------------------
 
